@@ -1,0 +1,4 @@
+telebot
+python-dotenv
+solders
+base58
